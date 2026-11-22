@@ -21,7 +21,7 @@ const PRODUCTS = [
       "Everyday splash resistance with quartz accuracy"
     ],
     styleTip: "Pair with silver rings or a matte black backpack to keep hardware tones consistent.",
-    image: "",
+    image: "./images/watch-01.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B09YPRQV28?tag=thecarryedi0d-21"
   },
   {
@@ -38,7 +38,7 @@ const PRODUCTS = [
       "Comfortable black leather strap with slim case"
     ],
     styleTip: "Matches directly with a black or dark brown leather belt for a put-together look.",
-    image: "",
+    image: "./images/watch-02.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0CDXNCH42?tag=thecarryedi0d-21"
   },
   {
@@ -55,7 +55,7 @@ const PRODUCTS = [
       "Breathable back panel with padded shoulder straps"
     ],
     styleTip: "Stick to black or grey so it complements any jacket or sneaker rotation.",
-    image: "",
+    image: "./images/backpack-01.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0DMDXZBJ7?tag=thecarryedi0d-21"
   },
   {
@@ -72,7 +72,7 @@ const PRODUCTS = [
       "Unisex build suited for college, travel & daily errands"
     ],
     styleTip: "Works best with earth-tone cargos, relaxed denim, and cream or white sneakers.",
-    image: "",
+    image: "./images/backpack-02.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B01ER69JTK?tag=thecarryedi0d-21"
   },
   {
@@ -89,7 +89,7 @@ const PRODUCTS = [
       "Secure smooth zipper closure for daily commutes"
     ],
     styleTip: "Wear snug across the chest over a relaxed tee or hoodie for clean street-ready layering.",
-    image: "",
+    image: "./images/crossbody-01.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0CXY21M86?tag=thecarryedi0d-21"
   },
   {
@@ -106,7 +106,7 @@ const PRODUCTS = [
       "Adjustable shoulder strap for all-day comfort"
     ],
     styleTip: "Pair warm brown leather with neutral tees and clean white trainers.",
-    image: "",
+    image: "./images/crossbody-02.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0FD9PCYYH?tag=thecarryedi0d-21"
   },
   {
@@ -123,7 +123,7 @@ const PRODUCTS = [
       "Versatile solid finish for formal and casual outfits"
     ],
     styleTip: "Order 2 inches above your trouser waist size so the tail sits neatly past the first loop.",
-    image: "",
+    image: "./images/belt-01.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B091XXT6RT?tag=thecarryedi0d-21"
   },
   {
@@ -140,7 +140,7 @@ const PRODUCTS = [
       "Trimmable unisex length for a custom waist fit"
     ],
     styleTip: "Ideal for relaxed cargos and oversized silhouettes where dress leather feels too formal.",
-    image: "",
+    image: "./images/belt-02.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0GHZVS6DS?tag=thecarryedi0d-21"
   },
   {
@@ -157,7 +157,7 @@ const PRODUCTS = [
       "Balanced 50mm lens width for comfortable all-day wear"
     ],
     styleTip: "Warm tortoiseshell frames tie together cognac leather watches and belts effortlessly.",
-    image: "",
+    image: "./images/sunglasses-01.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0HF82GFG7?tag=thecarryedi0d-21"
   },
   {
@@ -174,7 +174,7 @@ const PRODUCTS = [
       "Clean rimless profile suits monochromatic outfits"
     ],
     styleTip: "Match slim metal frames with structured crossbody bags and monochrome streetwear.",
-    image: "",
+    image: "./images/sunglasses-02.jpg",
     affiliateUrl: "https://www.amazon.in/dp/B0G949MF6R?tag=thecarryedi0d-21"
   }
 ];
