@@ -1,1 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Carry Edit — Curated Everyday Watches, Bags, Belts &amp; Sunglasses</title>
+  <meta name="description"
+    content="Independent unisex style guides and everyday carry reviews covering minimalist watches, backpacks, crossbody bags, leather belts, and UV-protected sunglasses." />
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 40'%3E%3Crect x='6' y='6' width='32' height='20' rx='8' fill='none' stroke='%2318181B' stroke-width='6'/%3E%3Crect x='26' y='14' width='32' height='20' rx='8' fill='none' stroke='%239A6B2F' stroke-width='6'/%3E%3Cline x1='19' y1='26' x2='31' y2='26' stroke='%2318181B' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Mandatory Top Affiliate Disclosure -->
+  <div class="disclosure-bar">
+    <div class="container">
+      <p>
+        <strong>Reader Supported:</strong> As an Amazon Associate I earn from qualifying purchases at no extra cost to
+        you.
+        <a href="about.html#disclosure">Learn more</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand" aria-label="The Carry Edit Home">
+        <svg class="brand-mark" viewBox="0 0 64 40" aria-hidden="true">
+          <rect x="6" y="6" width="32" height="20" rx="8" fill="none" stroke="#18181B" stroke-width="5.5" />
+          <rect x="26" y="14" width="32" height="20" rx="8" fill="none" stroke="#9A6B2F" stroke-width="5.5" />
+          <line x1="19" y1="26" x2="31" y2="26" stroke="#18181B" stroke-width="5.5" stroke-linecap="round" />
+        </svg>
+        <span class="brand-name">CARRY EDIT</span>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary Navigation">
+        <a href="index.html" class="nav-link active">Lookbook</a>
+        <a href="#buying-guide" class="nav-link">Style Guide</a>
+        <a href="about.html" class="nav-link">About</a>
+        <a href="privacy.html" class="nav-link">Privacy</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="container hero-content">
+        <span class="eyebrow">UNISEX EVERYDAY CARRY &amp; ACCESSORIES</span>
+        <h1>Timeless pieces that finish every outfit.</h1>
+        <p class="hero-subtitle">
+          Curated, no-hype guides to everyday watches, commuter backpacks, crossbody bags, leather belts, and
+          sunglasses—tested for build quality, versatility, and daily wear.
+        </p>
+      </div>
+    </section>
+
+    <!-- Filter & Search Controls -->
+    <section class="catalog-section" id="lookbook">
+      <div class="container">
+        <div class="controls-bar">
+          <div class="filter-tabs" role="tablist" aria-label="Filter accessories by category">
+            <button class="filter-btn active" data-category="all" role="tab" aria-selected="true">All Picks</button>
+            <button class="filter-btn" data-category="watches" role="tab" aria-selected="false">Watches</button>
+            <button class="filter-btn" data-category="backpacks" role="tab" aria-selected="false">Backpacks</button>
+            <button class="filter-btn" data-category="crossbody" role="tab" aria-selected="false">Crossbody
+              Bags</button>
+            <button class="filter-btn" data-category="belts" role="tab" aria-selected="false">Belts</button>
+            <button class="filter-btn" data-category="sunglasses" role="tab" aria-selected="false">Sunglasses</button>
+          </div>
+
+          <div class="search-wrap">
+            <input type="search" id="search-input" class="search-input"
+              placeholder="Search watches, canvas, polarized..." aria-label="Search curated accessories" />
+          </div>
+        </div>
+
+        <div class="results-meta">
+          <p id="results-count">Showing 10 curated essentials</p>
+          <p class="price-note">Prices &amp; availability update live on Amazon</p>
+        </div>
+
+        <!-- Dynamic Product Grid -->
+        <div class="product-grid" id="product-grid"></div>
+
+        <!-- Empty State -->
+        <div class="empty-state hidden" id="empty-state">
+          <p>No accessories match your search. Try clearing the search box or switching categories.</p>
+          <button class="btn-secondary" id="reset-filters-btn">Show All Picks</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Editorial Buying Guide (Original Content for Reader Value & Trust) -->
+    <section class="editorial-section" id="buying-guide">
+      <div class="container">
+        <div class="section-header">
+          <span class="eyebrow">THE CARRY EDIT STANDARD</span>
+          <h2>How to build a cohesive everyday kit</h2>
+          <p>A clean look rarely depends on expensive clothing—it comes down to matching hardware, balanced proportions,
+            and materials that age well.</p>
+        </div>
+
+        <div class="guide-grid">
+          <article class="guide-card">
+            <span class="guide-number">01</span>
+            <h3>Match Your Hardware &amp; Leather Tones</h3>
+            <p>
+              Aim to keep your watch case, belt buckle, and bag zippers in the same metal family (brushed steel or matte
+              black). Pair cognac or dark espresso leather belts with complementary watch straps for an effortless
+              put-together look.
+            </p>
+          </article>
+
+          <article class="guide-card">
+            <span class="guide-number">02</span>
+            <h3>Choose Proportion Over Logos</h3>
+            <p>
+              Unbranded silhouettes stay relevant across seasons. For unisex everyday watches, a 36mm–40mm dial works
+              comfortably on nearly every wrist. For commuter backpacks, look for a slim 18L–22L profile that holds a
+              15-inch laptop without bulging.
+            </p>
+          </article>
+
+          <article class="guide-card">
+            <span class="guide-number">03</span>
+            <h3>Check Functional Specs First</h3>
+            <p>
+              Before styling, verify the fundamentals: UV400 protection on sunglasses, water-resistant coatings or heavy
+              nylon/canvas on everyday bags, full-grain or top-grain leather on belts, and at least 3 ATM–5 ATM water
+              resistance on daily watches.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <a href="index.html" class="brand">
+          <svg class="brand-mark" viewBox="0 0 64 40" aria-hidden="true">
+            <rect x="6" y="6" width="32" height="20" rx="8" fill="none" stroke="#18181B" stroke-width="5.5" />
+            <rect x="26" y="14" width="32" height="20" rx="8" fill="none" stroke="#9A6B2F" stroke-width="5.5" />
+            <line x1="19" y1="26" x2="31" y2="26" stroke="#18181B" stroke-width="5.5" stroke-linecap="round" />
+          </svg>
+          <span class="brand-name">CARRY EDIT</span>
+        </a>
+        <p class="footer-tagline">Curated unisex watches, bags, belts, and eyewear for everyday carry.</p>
+      </div>
+
+      <div class="footer-links">
+        <a href="index.html">Lookbook</a>
+        <a href="about.html">About Us</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="mailto:thecarryedit.help@gmail.com">Contact</a>
+      </div>
+    </div>
+
+    <div class="container footer-legal">
+      <p>
+        <strong>Affiliate Disclosure:</strong> As an Amazon Associate I earn from qualifying purchases. Product prices
+        and availability are accurate as of the date/time indicated on Amazon and are subject to change. Any price and
+        availability information displayed on Amazon at the time of purchase will apply to the purchase of the product.
+      </p>
+      <p class="copyright">&copy; <span id="year">2026</span> The Carry Edit. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
