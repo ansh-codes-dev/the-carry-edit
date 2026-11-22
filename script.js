@@ -12,170 +12,170 @@ const PRODUCTS = [
     category: "watches",
     categoryLabel: "Watches",
     tier: "Everyday Classic",
-    title: "Minimalist 38mm Vintage Digital Steel Watch",
+    title: "Casio Vintage A168WEMB-1BDF Digital Steel Mesh Watch",
     review:
-      "A featherweight retro stainless-steel icon that sits flat under sleeves and works equally well with oversized streetwear or smart-casual shirts.",
+      "A slim 9.6mm retro digital icon with a black dial and stainless steel mesh band that pairs cleanly with streetwear or smart-casual layers.",
     specs: [
-      "Unisex 38mm slim profile with adjustable steel clasp",
-      "Built-in LED backlight, stopwatch & daily alarm",
-      "Everyday splash water resistance"
+      "Unisex 36.3mm square case with adjustable mesh clasp",
+      "Electroluminescent backlight, stopwatch & daily alarm",
+      "Everyday splash resistance with quartz accuracy"
     ],
     styleTip: "Pair with silver rings or a matte black backpack to keep hardware tones consistent.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=vintage+stainless+steel+digital+watch+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B09YPRQV28?tag=thecarryedi0d-21"
   },
   {
     id: "watch-02",
     category: "watches",
     categoryLabel: "Watches",
     tier: "Smart Casual",
-    title: "Clean Matte Dial Analog Watch with Leather Strap",
+    title: "Sonata Aspire Quartz Analog Silver Dial Watch (77105QL03W)",
     review:
-      "Strip away cluttered sub-dials for an understated monochrome face paired with a warm stitched leather strap that dresses up denim or linen effortlessly.",
+      "An understated silver dial paired with a sleek black leather strap that dresses up denim, chinos, or office shirts without bulk.",
     specs: [
-      "40mm scratch-resistant mineral glass dial",
-      "Reliable Japanese quartz movement",
-      "Interchangeable 20mm cognac leather strap"
+      "Clean silver analog dial with stick & Arabic markers",
+      "Reliable quartz movement for steady timekeeping",
+      "Comfortable black leather strap with slim case"
     ],
-    styleTip: "Matches directly with a cognac leather belt for an instant old-money aesthetic.",
+    styleTip: "Matches directly with a black or dark brown leather belt for a put-together look.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=minimalist+analog+leather+strap+watch+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0CDXNCH42?tag=thecarryedi0d-21"
   },
   {
     id: "backpack-01",
     category: "backpacks",
     categoryLabel: "Backpacks",
     tier: "Commuter Pick",
-    title: "Slim Water-Resistant 20L Laptop Commuter Pack",
+    title: "Virtutron 30L Water-Resistant 15.6-Inch Laptop Backpack",
     review:
-      "Structured enough to hold its boxy silhouette even when half-empty, making it ideal for college classes, cafe workdays, and weekend train trips.",
+      "A sleek, weather-resistant commuter pack that protects a 15.6-inch laptop while staying comfortable across college classes and daily travel.",
     specs: [
-      "Padded sleeve fits up to 15.6-inch laptops safely",
-      "Water-repellent matte weave fabric with hidden rear pocket",
-      "Luggage pass-through strap & breathable back mesh"
+      "Dedicated padded pocket fits up to 15.6-inch laptops",
+      "Water-resistant outer shell shields gear from rain",
+      "Breathable back panel with padded shoulder straps"
     ],
-    styleTip: "Stick to charcoal, olive, or matte black so it complements any jacket or sneaker rotation.",
+    styleTip: "Stick to black or grey so it complements any jacket or sneaker rotation.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=minimalist+water+resistant+slim+laptop+backpack+20L"
+    affiliateUrl: "https://www.amazon.in/dp/B0DMDXZBJ7?tag=thecarryedi0d-21"
   },
   {
     id: "backpack-02",
     category: "backpacks",
     categoryLabel: "Backpacks",
     tier: "Aesthetic Utility",
-    title: "Heavyweight Canvas Roll-Top Everyday Backpack",
+    title: "The House of Tara 21L Canvas Roll-Top Backpack",
     review:
-      "Combines rugged waxed-feel canvas with warm leather trim accents. Expands vertically when you carry a hoodie or gym gear, then clips down sleek.",
+      "Combines rugged cotton canvas with a classic roll-down top and leather strap closure for an effortless everyday carry silhouette.",
     specs: [
-      "Durable high-density canvas with metal buckle hardware",
-      "Dual side bottle sleeves & quick-access front zip",
-      "Unisex ergonomic padded shoulder straps"
+      "21-liter capacity with 100% cotton inner lining",
+      "Top roll-down closure with durable leather strap",
+      "Unisex build suited for college, travel & daily errands"
     ],
     styleTip: "Works best with earth-tone cargos, relaxed denim, and cream or white sneakers.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=canvas+roll+top+backpack+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B01ER69JTK?tag=thecarryedi0d-21"
   },
   {
     id: "crossbody-01",
     category: "crossbody",
     categoryLabel: "Crossbody Bags",
     tier: "Hands-Free Essential",
-    title: "Compact Matte Nylon Everyday Sling Bag",
+    title: "Fastrack Lightweight Twill-Detail Nylon Crossbody Sling",
     review:
-      "Built for days when pockets aren't enough—fits a phone, power bank, wallet, keys, and sunglasses without swinging around while you walk or commute.",
+      "Built for days when pockets aren't enough—keeps your phone, wallet, charger, and keys sorted without weighing down your shoulder.",
     specs: [
-      "Lightweight ripstop nylon with smooth YKK-style zips",
-      "Quick-release buckle strap wearable front or back",
-      "Internal mesh dividers + concealed passport pocket"
+      "Lightweight nylon body with subtle twill texture",
+      "2 main compartments + 3 quick-access pockets",
+      "Secure smooth zipper closure for daily commutes"
     ],
     styleTip: "Wear snug across the chest over a relaxed tee or hoodie for clean street-ready layering.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=minimalist+nylon+crossbody+sling+bag+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0CXY21M86?tag=thecarryedi0d-21"
   },
   {
     id: "crossbody-02",
     category: "crossbody",
     categoryLabel: "Crossbody Bags",
     tier: "Editorial Favorite",
-    title: "Structured Faux-Leather Messenger Crossbody",
+    title: "WildHorn Genuine Leather Crossbody Messenger Bag",
     review:
-      "A sleek vertical organizer silhouette with refined stitching and zero loud branding—bridges the gap between casual errands and evening dinners.",
+      "A compact genuine leather organizer bag with five dedicated pockets that bridges casual cafe runs and smart-casual office days.",
     specs: [
-      "Textured pebble vegan leather finish that resists scuffs",
-      "Magnetic flap closure with zippered main compartment",
-      "Adjustable wide shoulder strap for all-day comfort"
+      "Genuine leather exterior in a compact 7 x 2 x 8.5-inch frame",
+      "5 organized compartments including front & inner zip pockets",
+      "Adjustable shoulder strap for all-day comfort"
     ],
-    styleTip: "Choose espresso brown or jet black to pair seamlessly with loafers, boots, or white trainers.",
+    styleTip: "Pair warm brown leather with neutral tees and clean white trainers.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=minimalist+leather+crossbody+messenger+bag+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0FD9PCYYH?tag=thecarryedi0d-21"
   },
   {
     id: "belt-01",
     category: "belts",
     categoryLabel: "Belts",
     tier: "Wardrobe Staple",
-    title: "Full-Grain Genuine Leather Brushed-Buckle Belt",
+    title: "Louis Philippe 100% Embossed Italian Leather Belt",
     review:
-      "Unlike cheap bonded belts that crack after two months, a solid single-piece leather strap softens over time and develops a rich natural patina.",
+      "Crafted from 100% genuine embossed leather with a brushed nickel zinc-alloy buckle that elevates both tailored trousers and dark denim.",
     specs: [
-      "35mm versatile width fits jeans, chinos, and trousers",
-      "Brushed gunmetal or antique brass alloy pin buckle",
-      "Clean edge burnishing with reinforced keeper loop"
+      "100% genuine Italian embossed leather strap",
+      "Minimalist brushed-nickel zinc-alloy profile buckle",
+      "Versatile solid finish for formal and casual outfits"
     ],
-    styleTip: "Order 2 inches above your trouser waist size so the tail sits neatly past the first belt loop.",
+    styleTip: "Order 2 inches above your trouser waist size so the tail sits neatly past the first loop.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=full+grain+genuine+leather+belt+minimal+buckle"
+    affiliateUrl: "https://www.amazon.in/dp/B091XXT6RT?tag=thecarryedi0d-21"
   },
   {
     id: "belt-02",
     category: "belts",
     categoryLabel: "Belts",
     tier: "Streetwear Pick",
-    title: "Tactical Webbing Belt with Matte Quick-Release Buckle",
+    title: "TPM Adjustable Nylon Webbing Belt with Matte Buckle",
     review:
-      "Micro-adjustable with zero fixed holes—gives an exact waist fit for baggy jeans, carpenter pants, and utility cargos with clean industrial hardware.",
+      "Hole-free automatic locking gives an exact waist fit for baggy jeans, cargos, and utility trousers with clean matte-black hardware.",
     specs: [
-      "Heavy-duty woven nylon webbing that never curls",
-      "Low-profile matte black metal clasp",
-      "Fully unisex one-size adjustable length"
+      "Heavy-duty woven nylon webbing built for daily wear",
+      "Automatic matte-black buckle with no fixed belt holes",
+      "Trimmable unisex length for a custom waist fit"
     ],
-    styleTip: "Great for relaxed-fit cargos and oversized silhouettes where traditional leather feels too formal.",
+    styleTip: "Ideal for relaxed cargos and oversized silhouettes where dress leather feels too formal.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=minimalist+nylon+webbing+belt+matte+buckle+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0GHZVS6DS?tag=thecarryedi0d-21"
   },
   {
     id: "sunglasses-01",
     category: "sunglasses",
     categoryLabel: "Sunglasses",
     tier: "Sun Protection",
-    title: "Classic Tortoiseshell Square Polarized Sunglasses",
+    title: "Lee Cooper Polarized Tortoiseshell Square Sunglasses (LCW10023C2)",
     review:
-      "The universally flattering wayfarer-inspired frame that sharpens round and oval faces while cutting harsh road and midday sun glare cleanly.",
+      "A timeless tortoiseshell square silhouette with TAC polarized brown gradient lenses that cut road glare while flattering round and oval faces.",
     specs: [
-      "100% UV400 protection with glare-reducing polarized lenses",
-      "Lightweight acetate-style frame with metal hinge pins",
-      "Includes hard protective case & microfiber cloth"
+      "TAC polarized lenses with full UV protection",
+      "Lightweight, impact-resistant tortoiseshell polycarbonate frame",
+      "Balanced 50mm lens width for comfortable all-day wear"
     ],
     styleTip: "Warm tortoiseshell frames tie together cognac leather watches and belts effortlessly.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=tortoiseshell+square+polarized+uv400+sunglasses+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0HF82GFG7?tag=thecarryedi0d-21"
   },
   {
     id: "sunglasses-02",
     category: "sunglasses",
     categoryLabel: "Sunglasses",
     tier: "Modern Retro",
-    title: "Slim Metal-Frame Rectangular Tint Sunglasses",
+    title: "SPECSMAKERS Streak Rimless Rectangular Sunglasses (STR1028)",
     review:
-      "Clean 90s-inspired architectural wireframes that feel weightless on the nose bridge and elevate minimalist monochromatic outfits immediately.",
+      "Featherweight 15-gram rimless metal frames that deliver a crisp 90s minimalist look with full polarization and 100% UV protection.",
     specs: [
-      "UV400 tinted lenses for crisp outdoor clarity",
-      "Adjustable silicone nose pads for zero slip",
-      "Corrosion-resistant slim alloy frame"
+      "100% UV-protected polarized rectangular lenses",
+      "Ultra-light 15g unisex metal frame construction",
+      "Clean rimless profile suits monochromatic outfits"
     ],
-    styleTip: "Match gold frames with warm neutrals (beige, olive, cream) or silver frames with black and grey.",
+    styleTip: "Match slim metal frames with structured crossbody bags and monochrome streetwear.",
     image: "",
-    affiliateUrl: "https://www.amazon.in/s?k=retro+rectangular+metal+frame+uv400+sunglasses+unisex"
+    affiliateUrl: "https://www.amazon.in/dp/B0G949MF6R?tag=thecarryedi0d-21"
   }
 ];
 
